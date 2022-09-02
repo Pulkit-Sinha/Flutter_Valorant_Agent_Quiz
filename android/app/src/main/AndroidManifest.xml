@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.quiz">
    <application
-        android:label="quiz"
+        android:label="Valorant Agent Quiz"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
