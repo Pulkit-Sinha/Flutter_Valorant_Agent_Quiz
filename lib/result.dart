@@ -93,11 +93,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -125,11 +125,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -157,11 +157,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -189,11 +189,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -221,11 +221,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -253,11 +253,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -285,11 +285,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -317,11 +317,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -349,11 +349,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -381,11 +381,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -413,11 +413,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -445,11 +445,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -477,11 +477,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -509,11 +509,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -541,11 +541,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -573,11 +573,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -605,11 +605,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -637,11 +637,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],
@@ -669,11 +669,11 @@ class Result extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              FlatButton(
+              TextButton(
                 child: Text(
                   'Restart Quiz!',
                 ),
-                textColor: Colors.blue,
+                // textColor: Colors.blue,
                 onPressed: resetHandler,
               ),
             ],

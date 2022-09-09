@@ -157,25 +157,25 @@ class _MyAppState extends State<MyApp> {
   void _resetQuiz() {
     setState(() {
       _questionIndex = 0;
-      var Brim = 0;
-      var Reyna = 0;
-      var Viper = 0;
-      var Kj = 0;
-      var Omen = 0;
-      var Cypher = 0;
-      var Sova = 0;
-      var Sage = 0;
-      var Phoenix = 0;
-      var Jett = 0;
-      var Raze = 0;
-      var Astra = 0;
-      var Breach = 0;
-      var Skye = 0;
-      var Yoru = 0;
-      var Kayo = 0;
-      var Chamber = 0;
-      var Fade = 0;
-      var Neon = 0;
+      Brim = 0;
+      Reyna = 0;
+      Viper = 0;
+      Kj = 0;
+      Omen = 0;
+      Cypher = 0;
+      Sova = 0;
+      Sage = 0;
+      Phoenix = 0;
+      Jett = 0;
+      Raze = 0;
+      Astra = 0;
+      Breach = 0;
+      Skye = 0;
+      Yoru = 0;
+      Kayo = 0;
+      Chamber = 0;
+      Fade = 0;
+      Neon = 0;
     });
   }
 
@@ -243,7 +243,7 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Valorant Agent Quiz'),
-          backgroundColor: Colors.yellow,
+          backgroundColor: Colors.red,
         ),
         body: _questionIndex < _questions.length
             ? Quiz(
