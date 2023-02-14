@@ -1,5 +1,7 @@
 Flutter_Valorant_Agent_Quiz
 
+Available on Google Playstore: https://play.google.com/store/apps/details?id=valorant.agent.quiz
+
 Here's how the quiz allots points based on the users answers to the various questions:
 
 {
